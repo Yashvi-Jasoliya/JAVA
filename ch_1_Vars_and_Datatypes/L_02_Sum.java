@@ -4,6 +4,7 @@ public class L_02_Sum {
     public static void main(String[] args) {
 
         System.out.println("Hello world!\n");
+        
         System.out.println("The sum of three numbers is :");
         int a, b, c;
         a = 20;
