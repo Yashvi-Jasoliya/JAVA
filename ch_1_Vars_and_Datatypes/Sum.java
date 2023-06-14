@@ -1,6 +1,6 @@
 package ch_1_Vars_and_Datatypes;
 
-public class L_02_Sum {
+public class Sum {
     public static void main(String[] args) {
 
         System.out.println("Hello world!\n");
