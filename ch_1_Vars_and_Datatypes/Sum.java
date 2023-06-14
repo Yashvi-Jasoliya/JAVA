@@ -12,6 +12,7 @@ public class Sum {
         c = 5;
         int sum = a + b + c;
         System.out.println("Sum :- " + sum);
+        
     }
 }
 
