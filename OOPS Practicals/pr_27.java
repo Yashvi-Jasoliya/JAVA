@@ -1,5 +1,10 @@
+
+/* Pr:-27 --> Write an application that defines a Circle class with two constructors. The first form accepts a double value that represents the radius of the circle. 
+              This constructor assumes that the circle is centered at the origin (will set center coordinates to zero). The second form accepts the three double values. 
+              The first two arguments define the coordinates of the center and the third argument defines the radius. Set and display its instance variables.  */
+
 package clg_pr_24_to_31;
-// 27
+
 public class Circle2 {
     public double centerOfX;
     public double centerOfY;
