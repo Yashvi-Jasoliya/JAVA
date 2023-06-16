@@ -1,5 +1,5 @@
 
-pr:-3 --> Write a program that displays the value of 2 raised to the power 12. */
+/* pr:-3 --> Write a program that displays the value of 2 raised to the power 12. */
 
 package clg_pr_1_to_10;
 
