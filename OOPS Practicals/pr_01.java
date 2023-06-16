@@ -1,5 +1,11 @@
 package clg_pr_1_to_10;
 
+/*  Pr:-1 --> Pass student name using command line argument and print output in following format:     
+              First Name : abc
+              Second Name : pqr
+              Last Name : str       */
+
+
 public class pr_01 {
     public static void main(String[] args) {
 
