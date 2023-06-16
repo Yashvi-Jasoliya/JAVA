@@ -1,3 +1,6 @@
+
+/* Pr:-23 --> Create a StringBuffer object and illustrate the operation of the append() and reverse() methods.  */
+
 package clg_pr_15_to_23;
 
 import java.util.Scanner;
