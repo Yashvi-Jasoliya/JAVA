@@ -1,3 +1,6 @@
+
+/* Pr:-19 --> Write an application that counts the total number of characters in all of its command-line arguments. */
+
 package clg_pr_15_to_23;
 
 import javax.xml.crypto.dsig.spec.XSLTTransformParameterSpec;
