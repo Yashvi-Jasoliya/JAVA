@@ -1,5 +1,10 @@
+
+/* Pr:-32 --> Write a program that will accept two integers with the use of command line or scanner class. Divide first integer by second, 
+              display the result and also handle appropriate exception if second number is zero.  */
+
 package clg_pr_24_to_31;
 import java.util.Scanner;
+
 public class pr_32 {
     public static void main(String[] args) {
 
