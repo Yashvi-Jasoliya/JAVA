@@ -1,5 +1,5 @@
 
-/* Pr:-15 --> Create two dimensional array of int with user given input. Display the summation of all elements of 2D array using for each loop.  */
+/* Pr:-15 --> Write a program that will create two strings using new keyword, compare them and show true if they are same, append second to first.  */
 
 package clg_pr_15_to_23;
 
