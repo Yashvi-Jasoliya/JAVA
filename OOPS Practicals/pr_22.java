@@ -1,3 +1,6 @@
+
+/* Pr:-22 --> Write an application that reads and processes strings from the console(stays at console). Reverse the sequence of characters in each string and then display it.  */
+
 package clg_pr_15_to_23;
 
 import java.util.Scanner;
