@@ -1,3 +1,7 @@
+
+/* Pr:-20 --> Write an application that searches through its command-line argument. If an argument is found that does not 
+              begin with and upper case letter, display error message and terminate.    */
+
 package clg_pr_15_to_23;
 
 public class pr_20 {
