@@ -1,6 +1,7 @@
 package clg_pr_24_to_31;
 
-//25
+/* Pr:-25 --> Define class complex with a function to add and to compare to complex number.  */
+
     public class Complex {
         public double real;
         public double imag;
