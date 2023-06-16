@@ -1,3 +1,7 @@
+
+/* Pr:-21 --> A method named average() has one argument that is an array of strings. It converts 
+              these to double values and returns their average. Write a program that illustrates how to declare and use this method. */
+
 package clg_pr_15_to_23;
 
 import java.util.Enumeration;
