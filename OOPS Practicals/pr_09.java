@@ -1,3 +1,7 @@
+
+/* Pr:-9 --> Use While loop to generate random numbers and maintain a running sum of these values.
+             Terminate when the sum exceeds 20. (Note: use Math. random() method to obtain numbers.)    */
+
 package clg_pr_1_to_10;
 
 public class pr_09 {
