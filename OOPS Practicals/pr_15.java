@@ -1,3 +1,6 @@
+
+/* Pr:-14 --> Create two dimensional array of int with user given input. Display the summation of all elements of 2D array using for each loop.  */
+
 package clg_pr_15_to_23;
 
 import java.util.Scanner;
