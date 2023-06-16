@@ -1,6 +1,6 @@
 package clg_pr_1_to_10;
 
-public class pr_9 {
+public class pr_09 {
     public static void main(String[] args) {
         double sum = 0;
         while (sum <= 20) {
