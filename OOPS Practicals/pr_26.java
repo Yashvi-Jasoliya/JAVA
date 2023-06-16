@@ -6,6 +6,7 @@ import java.util.Scanner;
               center.This should be of type double. Use the new operator to create a Sphere object. Set and display its instance variables. */
 
 public class Sphere {
+  
     public double radius;
     public double centerOfX;
     public double centerOfY;
