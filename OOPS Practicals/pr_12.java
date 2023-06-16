@@ -1,3 +1,6 @@
+
+/* Pr:-12 --> Write a program that creates and initializes a four element byte array. Calculate and display the average of its values.
+
 package clg_pr_11_to_14;
 
 public class pr_12 {
