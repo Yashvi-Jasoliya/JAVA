@@ -1,3 +1,6 @@
+
+/* Pr:-34 --> Demonstrate NumberFormatException in the program when wrong data for some variable is entered.  */
+
 package clg_pr_24_to_31;
 import java.util.Scanner;
 
