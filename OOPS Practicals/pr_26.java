@@ -2,8 +2,8 @@ package clg_pr_24_to_31;
 
 import java.util.Scanner;
 
-// Pr:-26 --> Write an application that declares a class named Sphere. It should have instance variables to record its radius and the coordinates of its 
-              center.This should be of type double. Use the new operator to create a Sphere object. Set and display its instance variables.
+/* Pr:-26 --> Write an application that declares a class named Sphere. It should have instance variables to record its radius and the coordinates of its 
+              center.This should be of type double. Use the new operator to create a Sphere object. Set and display its instance variables. */
 
 public class Sphere {
     public double radius;
