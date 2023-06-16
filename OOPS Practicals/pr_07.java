@@ -2,7 +2,7 @@ package clg_pr_1_to_10;
 
 import java.util.Scanner;
 
-public class pr_7 {
+public class pr_07 {
 
     public static void main(String[] args) {
 
