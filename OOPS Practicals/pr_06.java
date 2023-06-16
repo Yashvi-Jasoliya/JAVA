@@ -1,3 +1,6 @@
+
+/* Pr:-6 --> Write an application that accepts two doubles as its command-line arguments, multiplies these together, and display the product. */
+
 package clg_pr_1_to_10;
 
 import java.util.Scanner;
