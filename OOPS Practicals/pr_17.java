@@ -1,3 +1,6 @@
+
+/* Pr:-17 --> Write a program that displays the substring formed by the last ten characters of a string given as command line argument.(Use length() method) */
+
 package clg_pr_15_to_23;
 
 import java.util.Scanner;
