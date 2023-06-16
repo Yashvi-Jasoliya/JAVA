@@ -1,3 +1,11 @@
+
+/* Pr:-5 --> Write a program to print following triangle with character ‘A’ for n rows, n is to be passed as command line argument.
+             A  A  A  A
+             A  A  A 
+             A  A
+             A      */
+
+
 package clg_pr_1_to_10;
 
 public class pr_05 {
