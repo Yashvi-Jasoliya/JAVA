@@ -1,3 +1,6 @@
+
+/* Pr:-11 --> Write an application that creates an array with five Float command line arguments and display the length of the array after creation and its elements.  */
+
 package clg_pr_11_to_14;
 
 public class pr_11 {
