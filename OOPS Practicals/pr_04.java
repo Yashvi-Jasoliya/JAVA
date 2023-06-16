@@ -1,3 +1,6 @@
+
+/* pr:-4 --> Write a program check primality of a number. */
+
 package clg_pr_1_to_10;
 
 import java.util.Scanner;
