@@ -13,6 +13,7 @@ public class Sphere {
     public double centerOfZ;
 
     public Sphere(double radius, double centerOfX, double centerOfY, double centerOfZ) {
+      
         this.radius = radius;
         this.centerOfX = centerOfX;
         this.centerOfY = centerOfY;
