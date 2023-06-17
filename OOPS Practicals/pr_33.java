@@ -9,9 +9,9 @@ import java.util.Scanner;
             super(InvalidAgeMessage);
         }
     }
-    public class pr_33{
 
-        public static int getAge() {
+    public class pr_33{
+         public static int getAge() {
 
             while (true) {
 
