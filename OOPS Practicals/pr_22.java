@@ -13,14 +13,10 @@ public class pr_22 {
         Scanner sc = new Scanner(System.in);
         String str = sc.nextLine();
 
-      if(str.equals("Exit")) {
-          System.out.println("You are exittted..");
-      }
-      else {
-          StringBuilder reverse_st = new StringBuilder(str);
-          reverse_st.reverse();
-          System.out.println("Reversed string: \n" + reverse_st);
-      }
+       StringBuilder reverse_st = new StringBuilder(str);
+       reverse_st.reverse();
+       System.out.println("Reversed string: \n" + reverse_st);
+      
 
     }
 }
