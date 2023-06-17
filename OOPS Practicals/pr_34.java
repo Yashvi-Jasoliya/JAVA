@@ -18,6 +18,7 @@ public class pr_34 {
             } catch (NumberFormatException e) {
                 System.out.println("That Number FormatException occurred..");
             }
+            
         }
     }
 }
