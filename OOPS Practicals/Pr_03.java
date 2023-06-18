@@ -3,7 +3,7 @@
 
 package clg_pr_1_to_10;
 
-public class pr_03 {
+public class Pr_03 {
     public static void main(String[] args) {
 
         System.out.println("2 raised to power 12 is :- ");
