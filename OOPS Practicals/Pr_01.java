@@ -6,7 +6,7 @@
 
 package clg_pr_1_to_10;
 
-public class pr_01 {
+public class Pr_01 {
     public static void main(String[] args) {
       
         System.out.println("First Name : abc");
