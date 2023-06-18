@@ -8,7 +8,7 @@
 
 package clg_pr_1_to_10;
 
-public class pr_05 {
+public class Pr_05 {
     public static void main(String[] args) {
 
         int n = 4;
