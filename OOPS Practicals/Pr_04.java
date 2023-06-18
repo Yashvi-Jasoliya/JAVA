@@ -5,7 +5,7 @@ package clg_pr_1_to_10;
 
 import java.util.Scanner;
 
-public class pr_4 {
+public class Pr_4 {
     public static void main(String[] args) {
         int n , prime = 1;
         System.out.println("Enter the number :-");
