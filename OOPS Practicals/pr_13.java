@@ -13,16 +13,21 @@ public class pr_13 {
             Scanner sc = new Scanner(System.in);
             int num = sc.nextInt();
 
+            boolean found = false;
             for (int element: arr){
                 if (num == element){
-                    System.out.println(num + " is found in Array");
-                    break;
-                }
-                else {
-                    System.out.println(num + " is not found in Array");
-                    break;
+                  found = true;
+                  break;
                 }
 
             }
+        
+            if (found){
+                System.out.println(num + " is found in array..");
+            }
+            else {
+                System.out.println(num + " is not found in array..");
+            }
+           
     }
 }
