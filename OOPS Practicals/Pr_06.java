@@ -5,7 +5,7 @@ package clg_pr_1_to_10;
 
 import java.util.Scanner;
 
-public class pr_06 {
+public class Pr_06 {
     public static void main(String[] args) {
         
         System.out.println("Enter the numbers");
