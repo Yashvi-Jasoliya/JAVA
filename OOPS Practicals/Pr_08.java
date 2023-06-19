@@ -4,7 +4,7 @@
 
 package clg_pr_1_to_10;
 
-public class pr_08 {
+public class Pr_08 {
     public static void main(String[] args) {
 
         System.out.println("number " + "Square " + "Cube ");
