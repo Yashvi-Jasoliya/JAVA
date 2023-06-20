@@ -5,7 +5,7 @@ package clg_pr_11_to_14;
 
 import java.util.Scanner;
 
-public class pr_13 {
+public class Pr_13 {
     public static void main(String[] args) {
 
             int[] arr = {100, 58, 21, 89};
