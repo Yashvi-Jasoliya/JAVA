@@ -5,7 +5,7 @@ package clg_pr_15_to_23;
 
 import java.util.Scanner;
 
-public class pr_15 {
+public class Pr_15 {
     public static void main(String[] args) {
 
         String  str1 = new String("Java Language");
