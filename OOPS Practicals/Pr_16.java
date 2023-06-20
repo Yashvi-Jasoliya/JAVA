@@ -5,7 +5,7 @@
 
 package clg_pr_15_to_23;
 
-public class pr_16 {
+public class Pr_16 {
     public static void main(String[] args) {
         String inputstr = "java123is234fun";
 
