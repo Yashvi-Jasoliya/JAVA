@@ -3,7 +3,7 @@
 
 package clg_pr_11_to_14;
 
-public class pr_12 {
+public class Pr_12 {
 
         public static void main(String[] args) {
             int[] arr = {100, 58, 21, 89};
