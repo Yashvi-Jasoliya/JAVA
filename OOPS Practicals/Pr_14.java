@@ -5,7 +5,7 @@ package clg_pr_11_to_14;
 
 import java.util.Scanner;
 
-public class pr_14 {
+public class Pr_14 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the raw :- ");
