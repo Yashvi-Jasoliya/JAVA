@@ -5,7 +5,7 @@ package clg_pr_15_to_23;
 
 import java.util.Scanner;
 
-public class pr_22 {
+public class Pr_22 {
 
     public static void main(String[] args) {
 
