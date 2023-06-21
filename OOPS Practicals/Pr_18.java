@@ -3,7 +3,7 @@
 
 package clg_pr_15_to_23;
 
-public class pr_18 {
+public class Pr_18 {
     public static void main(String[] args) {
 
         String inputstr = "50, 60, 70, 80, 90" ;
