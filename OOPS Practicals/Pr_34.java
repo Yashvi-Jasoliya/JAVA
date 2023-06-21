@@ -4,7 +4,7 @@
 package clg_pr_24_to_31;
 import java.util.Scanner;
 
-public class pr_34 {
+public class Pr_34 {
     public static void main(String[] args) {
 
         while (true) {
