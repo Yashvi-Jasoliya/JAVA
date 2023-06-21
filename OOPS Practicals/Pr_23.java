@@ -5,7 +5,7 @@ package clg_pr_15_to_23;
 
 import java.util.Scanner;
 
-public class pr_23 {
+public class Pr_23 {
     public static void main(String[] args) {
         System.out.println("Enter the string 1 ");
         Scanner sc1 = new Scanner(System.in);
