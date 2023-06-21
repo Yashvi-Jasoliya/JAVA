@@ -18,6 +18,7 @@ package clg_pr_24_to_31;
         }
 
 
+      public class Pr_30 {
         public static void main(String[] args){
 
         Bond[] b = new Bond[6];
@@ -33,6 +34,6 @@ package clg_pr_24_to_31;
         for (Bond bonds : b) {
             bonds.display();
         }
-
+      }
     }
 }
