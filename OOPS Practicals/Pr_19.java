@@ -6,7 +6,7 @@ package clg_pr_15_to_23;
 import javax.xml.crypto.dsig.spec.XSLTTransformParameterSpec;
 import java.util.Scanner;
 
-public class pr_19 {
+public class Pr_19 {
     public static void main(String[] args) {
 
         int total = 0;
