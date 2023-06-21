@@ -29,7 +29,7 @@ class K2 extends J2 {
     }
 }
 
-public class pr_31 {
+public class Pr_31 {
     public static void main(String[] args) {
 
         I2 i = new I2();
