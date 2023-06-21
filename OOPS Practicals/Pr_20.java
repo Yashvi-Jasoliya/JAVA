@@ -4,7 +4,7 @@
 
 package clg_pr_15_to_23;
 
-public class pr_20 {
+public class Pr_20 {
 
     public static void main(String[] args) {
 
