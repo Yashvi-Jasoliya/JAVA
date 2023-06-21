@@ -13,7 +13,7 @@ class Circle{
 
 }
 
-public class pr_24 {
+public class Pr_24 {
 
     public static void main(String[] args) {
 
