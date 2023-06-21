@@ -6,7 +6,7 @@ package clg_pr_15_to_23;
 
 import java.util.Enumeration;
 
-public class pr_21 {
+public class Pr_21 {
    public static double average(String[] values){
         int count=0;
         double sum = 0;
