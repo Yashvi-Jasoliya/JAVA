@@ -5,7 +5,7 @@ package clg_pr_15_to_23;
 
 import java.util.Scanner;
 
-public class pr_17 {
+public class Pr_17 {
     public static void main(String[] args) {
 
         System.out.println("Enter String which has 10 or more chracters :- ");
