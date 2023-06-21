@@ -10,7 +10,7 @@ import java.util.Scanner;
         }
     }
 
-    public class pr_33{
+    public class Pr_33{
          public static int getAge() {
 
             while (true) {
