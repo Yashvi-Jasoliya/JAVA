@@ -25,7 +25,7 @@ public class Pr_23 {
 
 //      Reversing
         StringBuffer sb_r2 = Buffer_string.reverse();
-        StringBuffer reverse_st = sb_r2;
+        StringBuffer reverse_st = sb_r2; 
         System.out.println("Reverse string :- " + reverse_st);
      }
 }
