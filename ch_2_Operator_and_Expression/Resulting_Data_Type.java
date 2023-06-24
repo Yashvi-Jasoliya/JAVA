@@ -34,7 +34,7 @@ public class L_10_Resulting_Data_Type {
         int x = ++y * 8;  // ++ has high precdence than *
         System.out.println(x);
 
-    char ch = 'B';
+        char ch = 'B';
         System.out.println(++ch);
 
     }
