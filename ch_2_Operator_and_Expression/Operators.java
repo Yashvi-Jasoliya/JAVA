@@ -2,6 +2,7 @@ package ch_2_Operator_and_Expression;
 
 public class L_08_operators {
     public static void main(String[] args) {
+        
 //      1.  Arithmatic operator
         int a = 10;
 //      int b = 5 * 10;
