@@ -3,7 +3,7 @@ package ch_2_Operator_and_Expression;
 public class L_10_Resulting_Data_Type {
     public static void main(String[] args) {
 
-    /*   byte a = 4;
+    /*  byte a = 4;
         int b = 5;
         short c = 2;
         int x = b + c;
