@@ -16,7 +16,7 @@ public class L_12_ch_2_ps {
 
 //      decrypt
         grade = (char) (grade - 8);
-        System.out.println(grade);   */
+        System.out.println(grade);  */
 
 
 //       pr 3
