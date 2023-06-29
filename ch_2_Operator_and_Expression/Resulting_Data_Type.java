@@ -11,7 +11,7 @@ public class L_10_Resulting_Data_Type {
         System.out.println(x);
         System.out.println(y);  */
 
-//        Increament and Decrement
+//      Increament and Decrement
        /* int i = 50;
         System.out.println(i++);  // first assign/print then after increament
         System.out.println(i);
