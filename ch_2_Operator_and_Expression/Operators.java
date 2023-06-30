@@ -23,7 +23,7 @@ public class L_08_operators {
         System.out.println(23>98 || 23<98);
 
 //       5. Bitwise operator
-        System.out.println(2&3);
+         System.out.println(2&3);
 //
 //        10
 //        11
