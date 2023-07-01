@@ -18,7 +18,7 @@ public class L_10_Resulting_Data_Type {
         System.out.println(++i);  // first increament then after print
         System.out.println(i);  */
 
-//      Quick quize
+//     Quick quize
     /*  int i = 40;
         System.out.println(i++);
         System.out.println(i);
