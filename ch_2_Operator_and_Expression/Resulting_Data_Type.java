@@ -29,7 +29,7 @@ public class L_10_Resulting_Data_Type {
         System.out.println(--i);
         System.out.println(i);  */
 
-//     Quick quize
+//      Quick quize
         int y = 7;
         int x = ++y * 8;  // ++ has high precdence than *
         System.out.println(x);
