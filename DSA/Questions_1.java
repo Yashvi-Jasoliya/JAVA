@@ -51,6 +51,7 @@ public class Questions_1 {
         float tax_total = (pencil + pen + eraser) + (0.18f * total);
         System.out.println("Your total bill with 18% tax is :- " + tax_total);
 
+        
 //        Q:4
 
 //        byte b =23;
