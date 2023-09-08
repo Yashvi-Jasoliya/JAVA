@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Questions_1 {
     public static void main(String[] args) {
 
+        
 //        Q:1
 
 //        System.out.println("Enter 3 numbers");
