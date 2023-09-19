@@ -37,9 +37,9 @@ public class Else_If {
 //            tax = income * 0.3f;
 //        }
 //
-//        System.out.printf("your tax is :- %.2f" , tax , "%");
+//       System.out.printf("your tax is :- %.2f" , tax , "%");
 
-//        print the Largest of 3
+//       print the Largest of 3
 
         System.out.println("Enter the number 1 :- ");
         Scanner sc1 = new Scanner(System.in);
