@@ -2,7 +2,7 @@ package DSA_IN_JAVA;
 
 import java.util.Scanner;
 
-public class Question_3 {
+public class Questions_3 {
     public static void main(String[] args) {
 //        Q :- 1
 
