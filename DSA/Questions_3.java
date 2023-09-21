@@ -90,7 +90,6 @@ public class Questions_3 {
         else{
             System.out.println(year + " year is not leap year");
         }
-
-
-        }
+        
+    }
 }
