@@ -26,7 +26,6 @@ public class While_Loop {
 //
 //        System.out.println("Printing your numbers");
 
-
         System.out.println("Enter the number :-");
         Scanner sc = new Scanner(System.in);
         int number = sc.nextInt();
