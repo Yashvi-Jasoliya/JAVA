@@ -13,7 +13,6 @@ public class While_Loop {
 //
 //        System.out.println("Printing 1000 numbers");
 
-
 //        System.out.println("Enter the number :-");
 //        Scanner sc = new Scanner(System.in);
 //        int number = sc.nextInt();
