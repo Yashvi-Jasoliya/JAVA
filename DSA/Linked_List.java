@@ -12,7 +12,6 @@ public class Linked_List {
     }
 
 //    Methods
-
     public static Node head;
     public static Node tail;
 
