@@ -23,7 +23,7 @@ public class Operators {
 //      2.  Unary operator
 
 //        int a = 15;
-////      int b = ++a;
+//        int b = ++a;
 //        int b = a++;
 //        System.out.println("a :- " + a);
 //        System.out.println("b :- " + b);
