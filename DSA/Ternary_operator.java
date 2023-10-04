@@ -16,8 +16,7 @@ public class Ternary_operator {
 
      */
 
-
-//        Check student is pass or not
+//      Check student is pass or not
 
         System.out.println("Enter the mark:-");
         Scanner sc = new Scanner(System.in);
