@@ -9,7 +9,7 @@ public class Ternary_operator {
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
 
-//        Ternary operator
+//      Ternary operator
 
         String type = (num % 2 == 0) ? "Even" : "Odd";
         System.out.println(type);
