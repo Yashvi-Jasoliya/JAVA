@@ -16,6 +16,7 @@ public class Arrays_in_2_D {
             return false;
         }
         
+        
         public static void main(String[] args) {
 
             int matrix[][] = new int[3][3];
